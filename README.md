@@ -1,4 +1,4 @@
-# Cash Flow & CAPEX Project Tracking Platform
+# Ca$h Flow & CAPEX Project Tracking Platform
 
 An open-source web application and analytical toolkit designed for real-time project management, CAPEX budget monitoring, and automated cash flow forecasting.
 
